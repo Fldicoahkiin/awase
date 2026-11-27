@@ -2,7 +2,7 @@
 
 Readers have seen enough generated text that some wording now tells them who wrote it, whatever the content. This list is about that reader, so it ages: add what readers start to notice, drop what they stop noticing, and keep the date current.
 
-Use it after the content is right. Rewrite the sentence plainly; swapping in a synonym keeps the same shape and the same tell.
+`brief` passes it to the writer as words to avoid; `review` checks for them once the content is right. When one turns up, rewrite the sentence plainly; swapping in a synonym keeps the same shape and the same tell.
 
 ## 中文
 

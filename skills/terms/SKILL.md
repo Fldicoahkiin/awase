@@ -1,6 +1,6 @@
 ---
 name: terms
-description: "Give the human the expert words for what they are describing, borrow from fields that solved the same problem, and restate the request in those words. Use when someone knows what they want but not how the field says it, or for /terms."
+description: "Give the human the expert words for what they are describing, borrow from fields that solved the same problem, and restate the request in those words. Use when someone knows what they want but not how the field says it, or when invoked as awase:terms."
 ---
 
 Work from the human's own files, code and words.

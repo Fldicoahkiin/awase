@@ -1,6 +1,6 @@
 ---
 name: deepen
-description: "Make a task deeper without making it bigger: what an expert would do here, the raw material they would start from, their methods, and what outside check would show it worked. Use when the direction is set and the request is shallow, or for /deepen."
+description: "Make a task deeper without making it bigger: what an expert would do here, the raw material they would start from, their methods, and what outside check would show it worked. Use when the direction is set and the request is shallow, or when invoked as awase:deepen."
 ---
 
 Before rewriting the request, answer four things:
@@ -10,4 +10,4 @@ Before rewriting the request, answer four things:
 3. Which specific methods and tools would they use?
 4. What, other than the agent or the human, would show the result is right: a test, a measurement, a real user, a source?
 
-Then rewrite the request to ask for exactly that and nothing wider. Choices an experiment can settle: prototype them and recommend from what you saw. Choices of taste or product direction: leave to the human, with your recommendation.
+Then rewrite the request to ask for exactly that and nothing wider. Choices an experiment can settle: prototype them and recommend from what you saw. Choices of taste or product direction: leave to the human, with your recommendation. Show the rewritten request to the human before doing the work.
