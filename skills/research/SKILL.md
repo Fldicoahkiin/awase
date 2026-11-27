@@ -8,4 +8,4 @@ description: "Before producing something, collect what only this product, person
 3. **The field.** The standards and established patterns for this kind of thing, from primary sources you have opened.
 4. **The common version.** How most current examples of this kind of thing look and read. Name it so the result can be judged against it; this list goes to whoever reviews the result. The producer does not see it, so the result is not built toward it.
 
-Report each with its source. The output is material for a brief. Save it to a file the human names.
+Report each with its source. List what you looked for and did not find, with where you looked, so a gap reads as a gap and not as something that doesn't exist. Date the report; a later run on the same subject is compared against it to see what changed. The output is material for a brief. Save it to a file the human names.
