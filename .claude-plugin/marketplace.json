@@ -1,0 +1,11 @@
+{
+  "name": "awase",
+  "owner": { "name": "Fldicoahkiin" },
+  "plugins": [
+    {
+      "name": "awase",
+      "source": "./",
+      "description": "Line up what you mean with what the agent produces: widen its view, settle decisions with you, hand work to a clean context, read it cold."
+    }
+  ]
+}
