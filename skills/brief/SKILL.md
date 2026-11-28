@@ -34,7 +34,9 @@ The brief carries the reader, the purpose, the facts and raw material, the prope
 
 ## 5. Produce in a fresh context
 
-Hand the brief to a subagent that sees nothing else. If you cannot start a subagent, write the brief to a file and ask the human to open a new session with only that file. For design or copy, ask for two to four directions that differ in substance, each grown from a different piece of the raw material.
+Hand the brief to a subagent that sees nothing else. If you cannot start a subagent, write the brief to a file and ask the human to open a new session with only that file. For design or copy, ask for two to four directions that differ in substance, each grown from a different piece of the raw material. Directions differ in substance when each has a different central idea: what the reader sees or does first, and what carries the page. Directions that share one layout and change only palette, type or illustration are one direction. Start each as a quick sketch of the first screen; build a full version only of the ones the user picks.
+
+When the user asks for the agent's own taste or invention, each direction carries a point of view the agent can defend, and the agent says which one it would ship and why.
 
 ## 6. Review in another fresh context
 
