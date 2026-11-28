@@ -17,4 +17,6 @@ Read the situation, say in one line which of these it is, and run the stages tha
 
 The division of work holds in every stage: the agent widens (terms, options, methods, sources, checks) and the human chooses. Ask the human only what no file, experiment or source can answer, one question at a time, with your recommended answer.
 
+Every stage runs on reading and writing files alone. Subagents, web search and a browser make a stage faster or cleaner; when one is missing, take the fallback the stage names, say so in a line, and keep going. Reading, searching, running read-only commands and writing drafts need no go-ahead. Questions to the human are for choices that are theirs and for actions that reach outside the machine.
+
 When a stage finishes, carry its result into the next one: the restated request, the spec, the decisions with their reasons, the research report, the brief. Save each to a file the human names, so a later session can start from it.

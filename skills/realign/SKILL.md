@@ -22,11 +22,13 @@ Walk the project against that description and list, with locations:
 - **Narration**: comments, docs and commit-style notes describing changes instead of the current state.
 - **The default look**: generic structure, boilerplate and stock UI that came from the average, not from this project.
 
-For each item, say what evidence shows it is unused or unintended, and what would break if it went.
+For each item, say what evidence shows it is unused or unintended, and what would break if it went. For each layer of abstraction, ask what happens if it is deleted: if the complexity disappears, it goes; if it spreads to the callers, the layer is doing its job.
 
 ## 3. Settle what stays
 
 Some items are deliberate. Put the uncertain ones to the human with `awase:decide`: keep, merge, delete, rename. Record each decision with its reason and scope, so the next session does not rebuild what was removed.
+
+Collect the items waiting on the human in one pending list and put them to the human together. Meanwhile, keep working on the items that don't depend on them.
 
 ## 4. Rebuild in small checked steps
 
